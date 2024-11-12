@@ -6,7 +6,7 @@ This project aims to showcase a simple web page built using **HTML**, **CSS** an
 
 - **HTML**
 - **CSS**
-- **Java**
+- **PHP**
 
 ## Installation
 
